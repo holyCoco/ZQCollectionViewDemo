@@ -1,4 +1,4 @@
-ZQ_CollectionView
+#ZQ_CollectionView
 
 A horizontal collectionView can show the horizontal data.
 
